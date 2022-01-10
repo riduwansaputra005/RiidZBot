@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/d5/93/d9/d593d9b5d4908a2c89b5a8a71eefbe4c.jpg" alt="YOGI" width="170" />
 
 ## RiidZ Bot
 ## 089620288196
